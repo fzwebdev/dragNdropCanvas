@@ -14,6 +14,11 @@
     canvas{
       border: 2px solid rebeccapurple;
     }
+    #canvasArea {
+        display:flex;
+        justify-content:center;
+        align-items: center;
+    }
   </style>
 </head>
 <body>
